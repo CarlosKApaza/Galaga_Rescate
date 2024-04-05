@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Galaga_Rescate",
+			"Path": "C:\\SIS457\\Galaga_Rescate\\Source\\Galaga_Rescate.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Galaga_RescateEditor",
+			"Path": "C:\\SIS457\\Galaga_Rescate\\Source\\Galaga_RescateEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

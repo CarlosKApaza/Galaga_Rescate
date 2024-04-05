@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Galaga_Rescate.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C78C7876-11A4-4B47-A4CF-DB6C79558402}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Galaga_Rescate.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Galaga_RescateEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A3138A67-E150-4744-86DD-C70FBB2096EE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Galaga_Rescate">
+      <UniqueIdentifier>{7B8DEE05-B9F7-4DBE-840B-DC17D4AFAC90}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Galaga_Rescate\ComponenteRecogerHumanos.cpp">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_Rescate\ComponenteRecogerHumanos.h">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Galaga_Rescate\Galaga_Rescate.Build.cs">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Galaga_Rescate\Galaga_Rescate.cpp">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_Rescate\Galaga_Rescate.h">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_Rescate\Galaga_RescateGameMode.cpp">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_Rescate\Galaga_RescateGameMode.h">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_Rescate\Galaga_RescatePawn.cpp">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_Rescate\Galaga_RescatePawn.h">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_Rescate\Galaga_RescateProjectile.cpp">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_Rescate\Galaga_RescateProjectile.h">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_Rescate\Humanos.cpp">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_Rescate\Humanos.h">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_Rescate\InventarioActor.cpp">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_Rescate\InventarioActor.h">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_Rescate\Personajes.cpp">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_Rescate\Personajes.h">
+      <Filter>Source\Galaga_Rescate</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

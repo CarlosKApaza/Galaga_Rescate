@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\SIS457\\Galaga_Rescate\\Source\\Galaga_Rescate\\Galaga_Rescate.Build.cs",
+		"C:\\SIS457\\Galaga_Rescate\\Source\\Galaga_Rescate.Target.cs",
+		"C:\\SIS457\\Galaga_Rescate\\Source\\Galaga_RescateEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
